@@ -52,7 +52,7 @@ public class Menu {
         }
     }
 }
-
+// test
 //     else if (i==2) {
 //            System.out.println ("Now you can find contact in contact book");
 //
